@@ -1,0 +1,3 @@
+name: djio_arcpy
+dependencies:
+        - python=3.6
