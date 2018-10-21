@@ -15,3 +15,8 @@ API Documentation
     :members:
     :undoc-members:
     :show-inheritance:
+
+.. automodule:: djio_arcpy.env
+    :members:
+    :undoc-members:
+    :show-inheritance:
