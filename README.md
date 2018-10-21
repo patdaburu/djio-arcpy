@@ -5,7 +5,7 @@ Utilities and conveniences for ArcPY.
 ## Project Features
 
 * [djio_arcpy](http://www.comingsoon.net)
-* a [Click](http://click.pocoo.org/5/) command-line application that you can use to generate hashes
+* a [Click](http://click.pocoo.org/5/) command-line application
 * automated unit tests you can run with [pytest](https://docs.pytest.org/en/latest/)
 * a [Sphinx](http://www.sphinx-doc.org/en/master/) documentation project
 

@@ -17,6 +17,7 @@ from djio_arcpy import __version__
 # To learn more about testing Click applications, visit the link below.
 # http://click.pocoo.org/5/testing/
 
+
 class TestCommonCliCase(unittest.TestCase):
     """
     This case contains tests of the command-line interface (CLI).
